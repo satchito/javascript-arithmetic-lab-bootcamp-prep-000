@@ -22,3 +22,8 @@ function inc(n) {
   var inc = ++n;
   return(inc)
 }
+
+function dec(n) {
+  var dec= --n;
+  return(dec)
+}
