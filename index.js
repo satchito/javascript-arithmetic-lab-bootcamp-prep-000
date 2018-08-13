@@ -3,9 +3,9 @@ function add(a, b) {
   return(add);
 }
 
-function substract(a, b) {
-  var substract = a - b;
-  return(substract);
+function subtract(a, b) {
+  var subtract = a - b;
+  return(subtract);
 }
 
 function multiply(a, b) {
