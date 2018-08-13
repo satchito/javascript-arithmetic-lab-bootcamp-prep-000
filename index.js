@@ -19,16 +19,16 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  var inc = ++n;
+  var inc = n++;
   return(inc)
 }
 
 function dec(n) {
-  var dec= --n;
+  var dec= n--;
   return(dec)
 }
 
 function makeInt(n) {
-  makeInt = parseInt(n);
+  var makeInt = parseInt(n);
   return(makeInt)
 }
